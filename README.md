@@ -24,6 +24,7 @@ A simple and extensible command-line tool to:
 ---
 
 ## Project Structure
+```
 personal-finance-cli/
 ├── finance.py # Main CLI interface
 ├── exporter.py # CSV export logic and filtering
@@ -34,6 +35,7 @@ personal-finance-cli/
 │ └── transactions.json # Local transaction store
 ├── csv/ # Exported CSV files
 └── README.md # Project documentation
+```
 
 ## Getting Started
 ### Prerequisities
@@ -53,4 +55,4 @@ personal-finance-cli/
    ```
    
 5. Run the app:
-   python finance.py
+   ```python finance.py```
