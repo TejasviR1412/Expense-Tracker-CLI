@@ -29,8 +29,8 @@ personal-finance-cli/
 ├── finance.py # Main CLI interface
 ├── exporter.py # CSV export logic and filtering
 ├── utils.py # Helper functions (display formatting, date/month filters)
-├── models.py # (Not included here, expected to define the Transaction class)
-├── storage.py # (Not included here, expected to handle JSON persistence)
+├── models.py #  Transaction class
+├── storage.py # handle JSON persistence
 ├── data/
 │ └── transactions.json # Local transaction store
 ├── csv/ # Exported CSV files
