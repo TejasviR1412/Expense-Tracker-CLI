@@ -41,12 +41,16 @@ personal-finance-cli/
 
 ### Setup 
 1. Clone the repository or copy the files into a folder
+   ```bash
    git clone https://github.com/TejasviR1412/Expense-Tracker-CLI.git
    cd personal-finance-cli
+   ```
    
-2. Create required folders:
+3. Create required folders:
+   ```
    mkdir -p data csv
    touch data/transactions.json
+   ```
    
-3. Run the app:
+5. Run the app:
    python finance.py
