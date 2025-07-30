@@ -1,4 +1,4 @@
-# Personal Finance CLI
+# Personal Finance CLI (https://roadmap.sh/projects/expense-tracker)
 
 A simple and extensible command-line tool to:
   1. manage your personal finances
