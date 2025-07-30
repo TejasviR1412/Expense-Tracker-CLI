@@ -1,0 +1,30 @@
+[
+    {
+        "date": "2025-01-31",
+        "amount": 4000.0,
+        "category": "salary",
+        "txn_type": "income",
+        "desc": "pay day"
+    },
+    {
+        "date": "2025-01-15",
+        "amount": 500.0,
+        "category": "groceries",
+        "txn_type": "expense",
+        "desc": "monthly grocery expense"
+    },
+    {
+        "date": "2025-02-28",
+        "amount": 4000.0,
+        "category": "salary",
+        "txn_type": "income",
+        "desc": "pay day"
+    },
+    {
+        "date": "2025-02-15",
+        "amount": 500.0,
+        "category": "groceries",
+        "txn_type": "expense",
+        "desc": "monthly veggies"
+    }
+]
